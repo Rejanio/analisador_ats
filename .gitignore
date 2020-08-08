@@ -60,7 +60,7 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-
+settings.py 
 # Flask stuff:
 instance/
 .webassets-cache
@@ -127,8 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-"analisador_ats/analisador_ats/settings.py" 
-"analisador_ats\analisador_ats\settings.py" 
-"\analisador_ats\analisador_ats\settings.py"
-"/analisador_ats/analisador_ats/settings.py" 
 
