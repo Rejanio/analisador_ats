@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 "analisador_ats/analisador_ats/settings.py" 
 "analisador_ats\analisador_ats\settings.py" 
+"\analisador_ats\analisador_ats\settings.py"
+"/analisador_ats/analisador_ats/settings.py" 
+
